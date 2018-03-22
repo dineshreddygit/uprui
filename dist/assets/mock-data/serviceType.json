@@ -1,0 +1,210 @@
+[{
+    "serviceType": "Worldwide Standard",
+    "value": "WWS",
+    "selected":false,
+    "cHour":"",
+    "cMin":"",
+    "eMin":"",
+    "eHour":""
+  },
+  {
+    "serviceType": "Worldwide Express Freight",
+    "value": "1DA",
+    "selected":false,
+    "cHour":"",
+    "cMin":"",
+    "eMin":"",
+    "eHour":""    
+  },
+  {
+    "serviceType": "Next Day Air / Express",
+    "value": "WXP",
+    "selected":false,
+    "cHour":"",
+    "cMin":"",
+    "eMin":"",
+    "eHour":""    
+  },
+  {
+    "serviceType": "Next Day Air Early/Express Plus",
+    "value": "1DM",
+    "selected":false,
+    "cHour":"",
+    "cMin":"",
+    "eMin":"",
+    "eHour":""    
+  },
+  {
+    "serviceType": "Next Day Air Saver",
+    "value": "1DP",
+    "selected":false,
+    "cHour":"",
+    "cMin":"",
+    "eMin":"",
+    "eHour":""    
+  },
+  {
+    "serviceType": "2nd Day Air",
+    "value": "2DA",
+    "selected":false,
+    "cHour":"",
+    "cMin":"",
+    "eMin":"",
+    "eHour":""    
+  },
+  {
+    "serviceType": "Transborder US-CA",
+    "value": "3DM",
+    "selected":false,
+    "cHour":"",
+    "cMin":"",
+    "eMin":"",
+    "eHour":""    
+  },
+  {
+    "serviceType": "3 Day Select / Standard",
+    "value": "3DS",
+    "selected":false,
+    "cHour":"",
+    "cMin":"",
+    "eMin":"",
+    "eHour":""    
+  },
+  {
+    "serviceType": "Euro Standard",
+    "value": "EXD",
+    "selected":false,
+    "cHour":"",
+    "cMin":"",
+    "eMin":"",
+    "eHour":""    
+  },
+  {
+    "serviceType": "Euro Express",
+    "value": "EXR",
+    "selected":false,
+    "cHour":"",
+    "cMin":"",
+    "eMin":"",
+    "eHour":""    
+  },
+  {
+    "serviceType": "Euro Express Saver",
+    "value": "EXS",
+    "selected":false,
+    "cHour":"",
+    "cMin":"",
+    "eMin":"",
+    "eHour":""    
+  },
+  {
+    "serviceType": "Euro Express Plus",
+    "value": "EXT",
+    "selected":false,
+    "cHour":"",
+    "cMin":"",
+    "eMin":"",
+    "eHour":""    
+  },
+  {
+    "serviceType": "Worldwide Express Plus ",
+    "value": "EXW",
+    "selected":false,
+    "cHour":"",
+    "cMin":"",
+    "eMin":"",
+    "eHour":""    
+  },
+  {
+    "serviceType": "Ground / Economy",
+    "value": "GND",
+    "selected":false,
+    "cHour":"",
+    "cMin":"",
+    "eMin":"",
+    "eHour":""    
+  },
+  {
+    "serviceType": "Standard",
+    "value": "STD",
+    "selected":false,
+    "cHour":"",
+    "cMin":"",
+    "eMin":"",
+    "eHour":""    
+  },
+  {
+    "serviceType": "NA1 - Next Day to USA",
+    "value": "WEP",
+    "selected":false,
+    "cHour":"",
+    "cMin":"",
+    "eMin":"",
+    "eHour":""    
+  },
+  {
+    "serviceType": "World Wide Express Saver",
+    "value": "WXS",
+    "selected":false,
+    "cHour":"",
+    "cMin":"",
+    "eMin":"",
+    "eHour":""    
+  },
+  {
+    "serviceType": "Express Early - CA to US / Express Early A.M - US to ~",
+    "value": "XDM",
+    "selected":false,
+    "cHour":"",
+    "cMin":"",
+    "eMin":"",
+    "eHour":""    
+  },
+  {
+    "serviceType": "Worldwide Expedited",
+    "value": "XPD",
+    "selected":false,
+    "cHour":"",
+    "cMin":"",
+    "eMin":"",
+    "eHour":""    
+  },
+  {
+    "serviceType": "Worldwide Express",
+    "value": "XPAR",
+    "selected":false,
+    "cHour":"",
+    "cMin":"",
+    "eMin":"",
+    "eHour":""    
+  },
+  {
+    "serviceType": "Worldwide Express Freight Midday",
+    "value": "WFM",
+    "selected":false,
+    "cHour":"",
+    "cMin":"",
+    "eMin":"",
+    "eHour":""    
+  },
+  {
+    "serviceType": "",
+    "value": "",
+    "selected":false,
+    "cHour":"",
+    "cMin":"",
+    "eMin":"",
+    "eHour":""    
+  },
+  {
+    "serviceType": "",
+    "value": "",
+    "selected":false,
+    "cHour":"",
+    "cMin":"",
+    "eMin":"",
+    "eHour":""    
+  }
+
+  
+]

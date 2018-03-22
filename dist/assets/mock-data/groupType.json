@@ -1,0 +1,29 @@
+[{
+    "key": "00",
+    "value": "Select"
+  },{
+  "key": "01",
+  "value": "Domestic Secure"
+}, {
+  "key": "02",
+  "value": "Domestic Secure - Expedited"
+}, {
+  "key": "03",
+  "value": "International"
+}, {
+  "key": "04",
+  "value": "International Secure"
+}, {
+  "key": "05",
+  "value": "International Secure - Expedited"
+}, {
+  "key": "06",
+  "value": "Category A"
+}, {
+  "key": "08",
+  "value": "Clinical Trials Domestic"
+}, {
+  "key": "09",
+  "value": "Clinical Trials International"
+}
+]

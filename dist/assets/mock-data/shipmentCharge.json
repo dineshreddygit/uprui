@@ -1,0 +1,34 @@
+[{
+  "value": "C&F",
+  "shipmentChargeType": "Cost and Freight",
+  "selected":false
+},{
+  "value": "CBS",
+  "shipmentChargeType": "Consignee Billed Package",
+  "selected":false
+},
+{
+  "value": "COL",
+  "shipmentChargeType": "Frieght Collect",
+  "selected":false
+},
+{
+  "value": "DDP",
+  "shipmentChargeType": "Delivery Duty Paid",
+  "selected":false
+}, 
+{
+  "value": "FOB",
+  "shipmentChargeType": "Free On Board",
+  "selected":false
+}, 
+{
+  "value": "PRE",
+  "shipmentChargeType": "Pre-Paid",
+  "selected":false
+},{
+  "value": "TPB",
+  "shipmentChargeType": "Third Party Billing",
+  "selected":false
+} 
+]

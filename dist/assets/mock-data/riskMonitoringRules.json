@@ -1,0 +1,46 @@
+[{
+    "excRsnCode": "01",
+    "value": "AT RISK MANIFEST BUT NO SCAN",
+    "selected":false
+  },
+  {
+    "excRsnCode": "02",
+    "value": "AT RISK SCAN AT NEXT LOCATION",
+    "selected":false
+  },
+  {
+    "excRsnCode": "03",
+    "value": "AT RISK DELIVERY DATE SLIPPAGE",
+    "selected":false
+  },
+  {
+    "excRsnCode": "05",
+    "value": "AT RISK DELIVERY POSTAL CODE MISMATCH",
+    "selected":false
+  },
+  {
+    "excRsnCode": "50",
+    "value": "AT RISK SCAN AFTER DELIVERY",
+    "selected":false
+  },
+  {
+    "excRsnCode": "04",
+    "value": "OCCURRENCE OF AN AT RISK EXCEPTION",
+    "selected":false
+  },
+  {
+    "excRsnCode": "51",
+    "value": "LATE BY TIME",
+    "selected":false
+  },
+  {
+    "excRsnCode": "13",
+    "value": "DIALS VOIDS",
+    "selected":false
+  },
+  {
+    "excRsnCode": "08",
+    "value": "DULICATE TRACKING NUMBER",
+    "selected":false
+  }
+]

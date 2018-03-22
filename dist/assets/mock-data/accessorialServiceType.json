@@ -1,0 +1,294 @@
+[{
+  "accessorialType": "Delivery Confirmation Adult Signature Required",
+  "value": "ADS"
+},
+{
+  "accessorialType": "Additional Handling Charge",
+  "value": "AHC"
+},
+  {
+  "accessorialType": "Return Services Local Print",
+  "value": "ALP"
+},
+{
+  "accessorialType": "Addressee Only Delivery Fee",
+  "value": "AOF"
+},
+{
+  "accessorialType":"Return Services Three Pickup Attempts",
+  "value":"ART" 
+},
+{"accessorialType":"International Delivery Confirmation w/ adult sig",
+  "value": "ASS"
+},
+{"accessorialType":"Basic Flexible Parcel Insurance",
+  "value": "BPI"
+},
+{"accessorialType":"Category A Hazardous Materials",
+  "value": "CAH"
+},
+{"accessorialType":"Commercial Invoice Removal",
+  "value": "CIR"
+},
+{"accessorialType":"Carbon Neutral Shipping",
+  "value": "CNS"
+},
+{"accessorialType":"Chain of Custody",
+  "value": "COC"
+},
+{"accessorialType":"Collect on Delivery Surcharge",
+  "value": "COD"
+},
+{"accessorialType":"Certificate of Origin",
+  "value": "COO"
+},
+{"accessorialType":"Commercial Signature Required",
+  "value":"CSG"
+},
+{"accessorialType":"Drop Off At UPS Facility",
+  "value": "DAF"
+},
+{"accessorialType":"Delivery Confirmation -Response",
+  "value":"DCR"
+},
+{"accessorialType":"Delivery Confirmation Signature Required",
+  "value": "DCS"
+},
+{"accessorialType":"Direct Delivery Only",
+  "value": "DDO"
+},
+{"accessorialType":"Remote Delivery Surcharge Default",
+  "value": "DDS"
+},
+{"accessorialType":"International Delivery Confirmation w/ signature",
+  "value": "DSS"
+},
+{"accessorialType":"Hold at UPS Access Point",
+  "value": "DTR"
+},
+{"accessorialType":"Shipper Declared Value",
+  "value": "DVS"
+},
+{"accessorialType":"Intl Extended Destination Surcharge",
+  "value": "EDS"
+},
+{"accessorialType":"Export License Verification (SDL)",
+  "value": "ELV"
+},
+{"accessorialType":"Export License Verification (SDL)",
+  "value": "ELV"
+},
+{"accessorialType":"Extended Flexible Parcel Insurance",
+  "value": "EPI"
+},
+{"accessorialType":"Electronic Package Release Authorization",
+  "value": "ERA"
+},
+{"accessorialType":"Return Services Electronic Return Label",
+  "value": "ERL"
+},
+{"accessorialType":"Extra Value Units Charge",
+  "value": "EVS"
+},
+{"accessorialType":"UPS Returns Exchange Return Movement",
+  "value": "EXI"
+},
+{"accessorialType":"UPS Returns Exchange Forward Movement",
+  "value": "EXO"
+},
+{"accessorialType":"Flexible Access Fee",
+  "value": "FAF"
+},
+{"accessorialType":"UPS World Ease",
+  "value": "GCC"
+},
+{"accessorialType":"Hazardous Materials",
+  "value": "HAZ"
+},
+{"accessorialType":"Hold For Pickup",
+  "value": "HFP"
+},
+{"accessorialType":"Dry ICE",
+  "value": "ICE"
+},
+{"accessorialType":"Import Control",
+  "value": "IMP"
+},
+{"accessorialType":"Restricted Articles - Alcoholic Beverages",
+  "value": "ISA"
+},
+{"accessorialType":"Restricted Articles - Diagnostic Specimens",
+  "value": "ISD"
+},
+{"accessorialType":"Restricted Articles - Special Exceptions",
+  "value": "ISE"
+},
+{"accessorialType":"Restricted Articles - Plants",
+  "value": "ISP"
+},
+{"accessorialType":"Restricted Articles - Perishables",
+  "value": "ISR"
+},
+{"accessorialType":"Restricted Articles - Seeds",
+  "value": "ISS"
+},
+{"accessorialType":"Restricted Articles - Tobacco",
+  "value": "IST"
+},
+{"accessorialType":"Import Control Electronic Label",
+  "value":"LDE"
+},
+{"accessorialType":"Import Control One Pickup Attempt",
+  "value": "LDO"
+},
+{"accessorialType":"Import Control Print Return Label",
+  "value": "LDP"
+},
+{"accessorialType":"Import Control Three Pickup Attempts",
+  "value": "LDT"
+},
+{"accessorialType":"Lift Gate for Pickup",
+  "value": "LGP"
+},
+{"accessorialType":"Lift Gate for Delivery",
+  "value": "LGS"
+},
+{"accessorialType":"Import Control Print and Mail Return Label",
+  "value": "LPM"
+},
+{"accessorialType":"UPS Mail Innovations Return Dual Label",
+  "value": "MRD"
+},
+{"accessorialType":"Freight Notification Before Delivery",
+  "value": "NBD"
+},
+{"accessorialType":"Non-Machinable",
+  "value": "NMC"
+},
+{"accessorialType":"Freight Notification of Delivery",
+  "value": "NOD"
+},
+{"accessorialType":"Freight Notification of Exception",
+  "value": "NOE"
+},
+{"accessorialType":"Freight Notification to Ship",
+  "value": "NTS"
+},
+{"accessorialType":"Proactive Monitoring and Intervention",
+  "value": "PAR"
+},
+{"accessorialType":"Pack & Collect Box 5 One Attempt",
+  "value": "PCO"
+},
+{"accessorialType":"Pack & Collect Box 5 Three Attempt",
+  "value":"PCT"
+},
+{"accessorialType":"Pack & Collect Box 2 One Attempt",
+  "value": "PDO"
+},
+{"accessorialType":"Pack & Collect Box 2 Three Attempt",
+  "value": "PDT"
+},
+{"accessorialType":"Return Services Print  and Mail",
+  "value": "PNM"
+},
+{"accessorialType":"Pack & Collect Box 1 One Attempt",
+  "value": "POO"
+},
+{"accessorialType":"Pack & Collect Box 1 Three Attempt",
+  "value": "POT"
+},
+{"accessorialType":"Pack & Collect Box 4 One Attempt",
+  "value": "PQO"
+},
+{"accessorialType":"Pack & Collect Box 4 Three Attempt",
+  "value": "PQT"
+},
+{"accessorialType":"Pack & Collect Box 3 One Attempt",
+  "value": "PTO"
+},
+{"accessorialType":"Pack & Collect Box 3 Three Attempt",
+  "value": "PTT"
+},
+{"accessorialType":"Quantum View Notify Client - Bundle",
+  "value": "QBC"
+},
+{"accessorialType":"Quantum View Pre-Alert Notification",
+  "value": "QPA"
+},
+{"accessorialType":"Quantum View Notify Client - Ship",
+  "value": "QSC"
+},
+{"accessorialType":"QVN In-Transit Notification (Client)",
+  "value": "QTC"
+},
+{"accessorialType":"Retail Access Point",
+  "value": "RAP"
+},
+{"accessorialType":"Direct to Retail COD Fee",
+  "value": "RCF"
+},
+{"accessorialType":"Residential Delivery Surcharge",
+  "value": "RES"
+},
+{"accessorialType":"Refrigeration",
+  "value": "RFG"
+},
+{"accessorialType":"Return Of Document",
+  "value": "ROD"
+},
+{"accessorialType":"Remote Pickup",
+  "value": "RPU"
+},
+{"accessorialType":"QV Label Creation Notification",
+  "value": "RSE"
+},
+{"accessorialType":"Inbound Return Notification Email",
+  "value": "RSI"
+},
+{"accessorialType":"Return Services One Pickup Attempt",
+  "value": "RSO"
+},
+{"accessorialType":"Saturday Delivery",
+  "value": "SAT"
+},
+{"accessorialType":"Shipper Export Declaration",
+  "value": "SED"
+},
+
+{"accessorialType":"Saturday Air Processing Fee",
+  "value": "SPU"
+},
+{"accessorialType":"Shipper Release",
+  "value": "SRP"
+},
+{"accessorialType":"Trade Direct Air",
+  "value": "TDA"
+},
+
+{"accessorialType":"Trade Direct Cross Border",
+  "value": "TDC"
+},
+{"accessorialType":"Trade Direct Ocean",
+  "value": "TDO"
+},
+{"accessorialType":"Time in Transit Flexible Parcel Insurance",
+  "value": "TNT"
+},
+{"accessorialType":"Delivery Intercept Upgrade",
+  "value": "UD2"
+},
+{"accessorialType":"Delivery Intercept",
+  "value": "UDI"
+},
+{"accessorialType":"Verbal Confirmation of Delivery",
+  "value": "VCD"
+},
+{"accessorialType":"Web Return Label",
+  "value": "WRL"
+},
+{"accessorialType":"UPS Exchange Collect",
+  "value": "XCO"
+}
+
+]

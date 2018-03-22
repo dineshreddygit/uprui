@@ -1,0 +1,145 @@
+[{
+    "label": "Package Reference Number 1",
+    "ref_count_num": "01",
+    "inputs": [{
+        "select": "",
+        "input": ""
+      },
+      {
+        "select": "",
+        "input": ""
+      },
+      {
+        "select": "",
+        "input": ""
+      },
+      {
+        "select": "",
+        "input": ""
+      }
+    ]
+  },
+  {
+    "label": "Package Reference Number 2",
+    "ref_count_num": "02",
+    "inputs": [{
+        "select": "",
+        "input": ""
+      },
+      {
+        "select": "",
+        "input": ""
+      },
+      {
+        "select": "",
+        "input": ""
+      },
+      {
+        "select": "",
+        "input": ""
+      }
+    ]
+  }, {
+    "label": "Package Reference Number 3",
+    "ref_count_num": "03",
+    "inputs": [{
+        "select": "",
+        "input": ""
+      },
+      {
+        "select": "",
+        "input": ""
+      },
+      {
+        "select": "",
+        "input": ""
+      },
+      {
+        "select": "",
+        "input": ""
+      }
+    ]
+  },
+  {
+    "label": "Package Reference Number 4",
+    "ref_count_num": "04",
+    "inputs": [{
+        "select": "",
+        "input": ""
+      },
+      {
+        "select": "",
+        "input": ""
+      },
+      {
+        "select": "",
+        "input": ""
+      },
+      {
+        "select": "",
+        "input": ""
+      }
+    ]
+  },
+  {
+    "label": "Package Reference Number 5",
+    "ref_count_num": "05",
+    "inputs": [{
+        "select": "",
+        "input": ""
+      },
+      {
+        "select": "",
+        "input": ""
+      },
+      {
+        "select": "",
+        "input": ""
+      },
+      {
+        "select": "",
+        "input": ""
+      }
+    ]
+  }, {
+    "label": "Shipment Reference Number 6",
+    "ref_count_num": "06",
+    "inputs": [{
+        "select": "",
+        "input": ""
+      },
+      {
+        "select": "",
+        "input": ""
+      },
+      {
+        "select": "",
+        "input": ""
+      },
+      {
+        "select": "",
+        "input": ""
+      }
+    ]
+  }, {
+    "label": "Shipment Reference Number 7",
+    "ref_count_num": "07",
+    "inputs": [{
+        "select": "",
+        "input": ""
+      },
+      {
+        "select": "",
+        "input": ""
+      },
+      {
+        "select": "",
+        "input": ""
+      },
+      {
+        "select": "",
+        "input": ""
+      }
+    ]
+  }
+]
