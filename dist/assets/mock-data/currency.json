@@ -8,379 +8,517 @@
   "key": "AED",
   "value": "AED: UAE DIRHAM"
 },
-{"key": "",
+{"key": "AFA",
   "value": "AFA: AFGHANI "
-},{"key": "",
+},
+{"key": "ALL",
   "value": "ALL: LEK "
 },
-{"key": "",
+{"key": "AMD",
   "value": "AMD: ARMENIAN DRAM "
 },
-{"key": "",
+{"key": "ANG",
   "value": "ANG: NETHERLANDS ANTILLIAN GUILDER "
 },
-{"key": "",
+{"key": "AOA",
   "value": "AOA: KWANZA" 
 },
-{"key": "",
+{"key": "AON",
   "value": "AON: NEW KWANZA "
 },
-{"key": "",
+{"key": "AOR",
   "value": "AOR: KWANZA REAJUSTADO "
 },
-{"key": "",
+{"key": "ARS",
   "value": "ARS: ARGENTINE PESO "
 },
-{"key": "",
+{"key": "AUD",
   "value": "AUD: AUSTRALIAN DOLLAR "
 },
-{"key": "",
+{"key": "AWG",
   "value": "AWG: ARUBAN GUILDER "
 },
-{"key": "",
+{"key": "AZM",
   "value": "AZM: AZERBAIJANIAN MANAT "
 },
-{"key": "",
+{"key": "BAM",
   "value": "BAM: CONVERTIBLE MARKS "
 },
-{"key": "",
+{"key": "BBD",
   "value": "BBD: BARBADOS DOLLAR "
 },
-{"key": "",
+{"key": "BDT",
   "value": "BDT: TAKA "
 },
-{"key": "",
+{"key": "BGL",
   "value": "BGL: LEV "
 },
-{"key": "",
+{"key": "BHD",
   "value": "BHD: BAHRAINI DINAR "
-},{"key": "",
+},{"key": "BIF",
   "value": "BIF: BURUNDI FRANC "
 },
 
-{"key": "",
+{"key": "BMD",
   "value": "BMD: BERMUDIAN DOLLAR "
-},{"key": "",
+},{"key": "BND",
   "value": "BND: BRUNEI DOLLAR "
 },
-{"key": "",
+{"key": "BNG",
   "value": "BNG: BULGARIAN LEV "
 },
-{"key": "",
+{"key": "BOB",
   "value": "BOB: BOLIVIANO "
 },
-{"key": "",
+{"key": "BRL",
   "value": "BRL: BRAZILIAN REAL "
 },
-{"key": "",
+{"key": "BSD",
   "value": "BSD: BAHAMIAN DOLLAR "
 },
-{"key": "",
+{"key": "BTN",
   "value": "BTN: NGULTRUM "
 },
-{"key": "",
+{"key": "BWP",
   "value": "BWP: PULA "
 },
-{"key": "",
+{"key": "BYB",
   "value": "BYB: BELARUSSIAN RUBLE "
 },
-{"key": "",
+{"key": "BYR",
   "value": "BYR: BELARUSIAN ROUBLE "
 },
-{"key": "",
+{"key": "BZD",
   "value": "BZD: BELIZE DOLLAR" 
 },
-{"key": "",
+{"key": "CAD",
   "value": "CAD: CANADIAN DOLLAR "
 },
-{"key": "",
+{"key": "CDF",
   "value": "CDF: FRANC CONGOLAIS "
 },
-{"key": "",
+{"key": "CHF",
   "value": "CHF: SWISS FRANC "
 },
-{"key": "",
+{"key": "CLP",
   "value": "CLP: CHILEAN PESO "
 },
-{"key": "",
+{"key": "CNY",
   "value": "CNY: CHINESE YUAN "
 },
-{"key": "",
+{"key": "COP",
   "value": "COP: COLOMBIAN PESO"
 },
-{"key": "",
+{"key": "CRC",
   "value": "CRC: COSTA RICAN COLON "
 },
-{"key": "",
+{"key": "CUP",
   "value": "CUP: CUBAN PESO "
 },
-{"key": "",
+{"key": "CVE",
   "value": "CVE: CAPE VERDE ESCUDO "
 },
-{"key": "",
+{"key": "CYP",
   "value": "CYP: CYPRUS POUND"
 },
-{"key": "",
+{"key": "CZK",
   "value": "CZK: CZECH KORUNA "
 },
-{"key": "",
+{"key": "DJF",
   "value": "DJF: DJIBOUTI FRANC "
 },
-{"key": "",
+{"key": "DKK",
   "value": "DKK: DANISH KRONE "
 },
-{"key": "",
+{"key": "DOP",
   "value": "DOP: DOMINICAN PESO "
 },
-{"key": "",
+{"key": "DZD",
   "value": "DZD: ALGERIAN DINAR "
 },
-{"key": "",
+{"key": "ECS",
   "value": "ECS: SUCRE "
 },
-{"key": "",
+{"key": "EEK",
   "value": "EEK: KROON "
 },
-{"key": "",
+{"key": "EGP",
   "value": "EGP: EGYPTIAN POUND "
 },
-{"key": "ERN: ERITEAN NAKFA ",
-  "value": ""
+{"key": "ERN",
+  "value": "ERN: ERITEAN NAKFA "
 },
-{"key": "",
+{"key": "ETB",
   "value": "ETB: ETHIOPIAN BIRR "
 },
-{"key": "",
-  "value": "EUROPEAN MONETARY UNIT (EURO)"
+{"key": "EUR",
+  "value": "EUR: EUROPEAN MONETARY UNIT (EURO)"
 },
-{"key": "",
+{"key": "FJD",
   "value": "FJD: FIJI DOLLAR "
 },
-{"key": "",
+{"key": "FKP",
   "value": "FKP: FALKLAND ISLANDS POUND "
-},{"key": "",
+},{"key": "GBP",
   "value": "GBP: POUND STERLING "
 },
-{"key": "",
+{"key": "GEL",
   "value": "GEL: LARI "
 },
-{"key": "",
+{"key": "GHC",
   "value": "GHC: CEDI"
 },
-{"key": "",
+{"key": "GIP",
   "value": "GIP: GIBRALTAR POUND "
 },
-{"key": "",
+{"key": "GMD",
   "value": "GMD: DALASI "
 },
-{"key": "",
+{"key": "GNF",
   "value": "GNF: GUINEA FRANC"
 },
-{"key": "",
+{"key": "GTQ",
   "value": "GTQ: QUETZAL"
 },
-{"key": "",
+{"key": "GWP",
   "value": "GWP: GUINEA-BISSAU PESO" 
 },
-{"key": "",
+{"key": "GYD",
   "value": "GYD: GUYANA DOLLAR "
 },
 
-{"key": "",
+{"key": "HKD",
   "value": "HKD: HONG KONG DOLLAR "
 },
-{"key": "",
+{"key": "HNL",
   "value": "HNL: LEMPIRA "
-},{"key": "",
+},{"key": "HRK",
   "value": "HRK: CROATIAN KUNA "
 },
-{"key": "",
+{"key": "HTG",
   "value": "HTG: GOURDE"
 },
-{"key": "",
+{"key": "HUF",
   "value": "HUF: FORINT"
 },
-{"key": "",
+{"key": "ILS",
   "value": "ILS: NEW ISRAELI SHEQEL"
 },
-{"key": "",
+{"key": "INR",
   "value": "INR: INDIAN RUPEE"
 },
-{"key": "",
+{"key": "IQD",
   "value": "IQD: IRAQI DINAR"
 },
-{"key": "",
+{"key": "IRR",
   "value": "IRR: IRANIAN RIAL"
 },
 
-{"key": "",
+{"key": "ISK",
   "value": "ISK: ICELAND KRONA "
-},{"key": "",
+},{"key": "JMD",
   "value": "JMD: JAMAICAN DOLLAR "
 },
-{"key": "",
+{"key": "JOD",
   "value": "JOD: JORDANIAN DINAR "
 },
-{"key": "",
+{"key": "JPY",
   "value": "JPY: YEN"
 },
-{"key": "",
+{"key": "KES",
   "value": "KES: KENYAN SCHILLING"
 },
 
-{"key": "",
+{"key": "KGS",
   "value": "KGS: SOM"
 },
-{"key": "",
+{"key": "KHR",
   "value": "KHR: RIEL"
 },
-{"key": "",
+{"key": "KMF",
   "value": "KMF: COMORO FRANC"
 },
-{"key": "",
+{"key": "KPW",
   "value": "KPW: NORTH KOREAN WON"
 },
-{"key": "",
+{"key": "KRW",
   "value": "KRW: WON"
-},{"key": "",
+},{"key": "KWD",
   "value": "KWD: KUWAITI DINAR"
 },
-{"key": "",
+{"key": "KYD",
   "value": "KYD: CAYMAN ISLANDS DOLLAR"
 },
 
-{"key": "",
+{"key": "KZT",
   "value": "KZT: TENGE"
 },
-{"key": "",
+{"key": "LAK",
   "value": "LAK: KIP"
-},{"key": "",
+},{"key": "LBP",
   "value": "LBP: LEBANESE POUND"
 },
-{"key": "",
+{"key": "LKR",
   "value": "LKR: SRI LANKA RUPEE"
 },
-{"key": "",
+{"key": "LRD",
   "value": "LRD: LIBERIAN DOLLAR"
 },
-{"key": "",
+{"key": "LSL",
   "value": "LSL: LOTI"
 },
 
-{"key": "",
+{"key": "LTL",
   "value": "LTL: LITHUANIAN LITUS"
 },
-{"key": "",
+{"key": "LVL",
   "value": "LVL: LATVIAN LATS"
 },
-{"key": "",
+{"key": "LYD",
   "value": "LYD: LIBYAN DINAR"
 },
-{"key": "",
+{"key": "MAD",
   "value": "MAD: MOROCCAN DIRHAM"
-},{"key": "",
+},{"key": "MDL",
   "value": "MDL: MOLDOVAN LEU"
 },
 
-{"key": "",
+{"key": "MGA",
   "value": "MGA: MALAGASCY ARIARY"
 },
-{"key": "",
+{"key": "MGF",
   "value": "MGF: MALAGASY FRANC"
 },
-{"key": "",
+{"key": "MKD",
   "value": "MKD: DENAR"
 },
-{"key": "",
+{"key": "MMK",
   "value": "MMK: KYAT"
 },
-{"key": "",
+{"key": "MNT",
   "value": "MNT: TUGRIK"
 },
-{"key": "",
+{"key": "MOP",
   "value": "MOP: PATACA"
 },
-{"key": "",
+{"key": "MRO",
   "value": "MRO: OUGUIYA"
 },
-{"key": "",
+{"key": "MTL",
   "value": "MTL: MALTESE LIRA"
 },
-{"key": "",
+{"key": "MUR",
   "value": "MUR: MAURITIUS RUPEE"
 },
-{"key": "",
+{"key": "MVR",
   "value": "MVR: RUFIYAA"
 },
-{"key": "",
+{"key": "MWK",
   "value": "MWK: KWACHA"
 },
-{"key": "",
+{"key": "MXN",
   "value": "MXN: MEXICAN NUEVO PESO"
 },
-{"key": "",
+{"key": "MYR",
   "value": "MYR: MALAYSIAN RINGGIT"
 },
 
-{"key": "",
+{"key": "MZM",
   "value": "MZM: METICAL"
 },
-{"key": "",
+{"key": "NAD",
   "value": "NAD: NAMIBIA DOLLAR"
-},{"key": "",
+},{"key": "NGN",
   "value": "NGN: NAIRA"
 },
 
-{"key": "",
+{"key": "NIO",
   "value": "NIO: CORDOBA ORO"
 },
-{"key": "",
+{"key": "NOK",
   "value": "NOK: NORWEGIAN KRONE"
 },
-{"key": "",
+{"key": "NPR",
   "value": "NPR: NEPALESE RUPEE"
-},{"key": "",
+},{"key": "NZD",
   "value": "NZD: NEW ZEALAND DOLLAR"
 },
 
-{"key": "",
+{"key": "OMR",
   "value": "OMR: RIAL OMANI"
 },
-{"key": "",
+{"key": "PAB",
   "value": "PAB: BALBOA"
-},{"key": "",
+},{"key": "PEN",
   "value": "PEN: NUEVO SOL"
 },
 
-{"key": "",
+{"key": "PGK",
   "value": "PGK: KINA"
 },
-{"key": "",
+{"key": "PHP",
   "value": "PHP: PHILIPPINE PESO"
 },
-{"key": "",
+{"key": "PKR",
   "value": "PKR: PAKISTAN RUPEE"
 },
-{"key": "",
+{"key": "PLN",
   "value": "PLN: ZLOTY"
 },
-{"key": "",
+{"key": "PLZ",
   "value": "PLZ: ZLOTY"
 },
-{"key": "",
+{"key": "PYG",
   "value": "PYG: GUARANI"
 },
-{"key": "",
+{"key": "QAR",
   "value": "QAR: QATARI RIAL"
 },
-{"key": "",
+{"key": "RMB",
   "value": "RMB: YUAN RENMINBI"
 },
-{"key": "",
+{"key": "ROL",
   "value": "ROL: LEU"
-},{"key": "",
+},{"key": "RSD",
   "value": "RSD: SERBIAN DINAR"
 },
-{"key": "",
+{"key": "RUB",
   "value": "RUB: RUSSIAN RUBLE "
-}]
+},
+{"key": "RWF",
+  "value": "RWF: RWANDA FRANC"
+},
+{"key": "SAR",
+  "value": "SAR: SAUDI RIYAL"
+},
+{"key": "SBD",
+  "value": "SBD: SOLOMON ISLANDS DOLLAR"
+},
+{"key": "SCR",
+  "value": "SCR: SEYCHELLES RUPEE"
+},
+{"key": "SDD",
+  "value": "SDD: SUDANESE DINAR"
+},
+{"key": "SEK",
+  "value": "SEK: SWEDISH KRONA"
+},
+{"key": "SGD",
+  "value": "SGD: SINGAPORE DOLLAR"
+},
+{"key": "SHP",
+  "value": "SHP: SAINT HELENA POUND"
+},
+{"key": "SKK",
+  "value": "SKK: SLOVAK KORUNA"
+},
+{"key": "SLL",
+  "value": "SLL: LEONE"
+},
+{"key": "SOS",
+  "value": "SOS: SOMALI SHILLING"
+},
+{"key": "SRG",
+  "value": "SRG: SURINAME GUILDER"
+},
+{"key": "STD",
+  "value": "STD: DOBRA"
+},
+{"key": "SVC",
+  "value": "SVC: EL SALVADOR COLON"
+},
+{"key": "SYP",
+  "value": "SYP: SYRIAN POUND"
+},
+{"key": "SZL",
+  "value": "SZL: LILANGENI"
+},
+{"key": "THB",
+  "value": "THB: BAHT"
+},
+{"key": "TJR",
+  "value": "TJR: TAJIK RUBLE"
+},
+{"key": "TJS",
+  "value": "TJS: SOMONI"
+},
+{"key": "TMM",
+  "value": "TMM: MANAT"
+},
+{"key": "TND",
+  "value": "TND: TUNISIAN DINAR"
+},
+{"key": "TOP",
+  "value": "TOP: PA'ANGA"
+},
+{"key": "TRL",
+  "value": "TRL: TURKISH LIRA"
+},
+{"key": "TTD",
+  "value": "TTD: TRINIDAD AND TOGABO DOLLAR"
+},
+{"key": "TWD",
+  "value": "TWD: NEW TAIWAN DOLLAR"
+},
+{"key": "TZS",
+  "value": "TZS: TANZANIAN SHILLING"
+},
+{"key": "UAH",
+  "value": "UAH: HRYVNIA"
+},
+{"key": "UAK",
+  "value": "UAK: KARBOVANET"
+},
+{"key": "UGX",
+  "value": "UGX: UGANDA SHILLING"
+},
+{"key": "UYU",
+  "value": "UYU: PESO URUGUAYO"
+},
+{"key": "UZS",
+  "value": "UZS: UZBEKISTAN SUM"
+},
+
+{"key": "VEB",
+  "value": "VEB: BOLIVAR"
+},
+{"key": "VND",
+  "value": "VND: DONG"
+},
+{"key": "VUV",
+  "value": "VUV: VATU"
+},
+{"key": "WST",
+  "value": "WST: TALA"
+},
+{"key": "XAF",
+  "value": "XAF: CFA FRANC BEAC "
+},
+{"key": "XCD",
+  "value": "XCD: EAST CARIBBEAN DOLLAR"
+},
+{"key": "XDR",
+  "value": "XDR: SDR (INTERNATIONAL MONETARY FUND)"
+},
+{"key": "XOF",
+  "value": "XOF: CFA FRANC BCEAO"
+},
+{"key": "XPF",
+  "value": "XPF: CFP FRANC"
+},
+{"key": "YER",
+  "value": "YER: YEMENI RIAL"
+},
+{"key": "ZAR",
+  "value": "ZAR: RAND"
+},
+{"key": "ZMK",
+  "value": "ZMK: KWACHA"
+},
+{"key": "ZRN",
+  "value": "ZRN: NEW ZAIRE"
+},
+{"key": "ZWD",
+  "value": "ZWD: ZIMBABWE DOLLAR"
+}
+]

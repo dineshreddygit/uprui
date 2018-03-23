@@ -28,4 +28,10 @@
       "value":"Saturday",
   "selected":false
   }
+  ,
+  {
+      "key":"sunday",
+      "value":"Sunday",
+  "selected":false
+  }
 ]

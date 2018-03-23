@@ -1,4 +1,12 @@
 [{
+    "serviceType": "2nd Day Air",
+    "value": "2DA",
+    "selected":false,
+    "cHour":"",
+    "cMin":"",
+    "eMin":"",
+    "eHour":""    
+  },{
     "serviceType": "Worldwide Standard",
     "value": "WWS",
     "selected":false,
@@ -43,15 +51,7 @@
     "eMin":"",
     "eHour":""    
   },
-  {
-    "serviceType": "2nd Day Air",
-    "value": "2DA",
-    "selected":false,
-    "cHour":"",
-    "cMin":"",
-    "eMin":"",
-    "eHour":""    
-  },
+  
   {
     "serviceType": "Transborder US-CA",
     "value": "3DM",

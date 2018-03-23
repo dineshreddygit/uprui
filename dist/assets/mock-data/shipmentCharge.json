@@ -21,11 +21,6 @@
   "value": "FOB",
   "shipmentChargeType": "Free On Board",
   "selected":false
-}, 
-{
-  "value": "PRE",
-  "shipmentChargeType": "Pre-Paid",
-  "selected":false
 },{
   "value": "TPB",
   "shipmentChargeType": "Third Party Billing",
