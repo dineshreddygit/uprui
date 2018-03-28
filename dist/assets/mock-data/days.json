@@ -1,37 +1,36 @@
-[
- {
-    "key":"monday",
-  "value":"Monday",
-  "selected":false
-},
- {"key":"tuesday",
-  "value":"Tuesday",
-  "selected":false
-},
-  {
-      "key":"wednesday",
-      "value":"Wednesday",
-  "selected":false
+[{
+    "key": "monday",
+    "value": "Monday",
+    "selected": false
   },
   {
-      "key":"thursday",
-      "value":"Thursday",
-  "selected":false
+    "key": "tuesday",
+    "value": "Tuesday",
+    "selected": false
   },
   {
-      "key":"friday",
-      "value":"Friday",
-  "selected":false
+    "key": "wednesday",
+    "value": "Wednesday",
+    "selected": false
   },
   {
-      "key":"saturday",
-      "value":"Saturday",
-  "selected":false
-  }
-  ,
+    "key": "thursday",
+    "value": "Thursday",
+    "selected": false
+  },
   {
-      "key":"sunday",
-      "value":"Sunday",
-  "selected":false
+    "key": "friday",
+    "value": "Friday",
+    "selected": false
+  },
+  {
+    "key": "saturday",
+    "value": "Saturday",
+    "selected": false
+  },
+  {
+    "key": "sunday",
+    "value": "Sunday",
+    "selected": false
   }
 ]

@@ -1,29 +1,29 @@
 [{
-  "value": "C&F",
-  "shipmentChargeType": "Cost and Freight",
+  "shipmentChargeType": "C&F",
+  "value": "Cost and Freight",
   "selected":false
 },{
-  "value": "CBS",
-  "shipmentChargeType": "Consignee Billed Package",
+  "shipmentChargeType": "CBS",
+  "value": "Consignee Billed Package",
   "selected":false
 },
 {
-  "value": "COL",
-  "shipmentChargeType": "Frieght Collect",
+  "shipmentChargeType": "COL",
+  "value": "Frieght Collect",
   "selected":false
 },
 {
-  "value": "DDP",
-  "shipmentChargeType": "Delivery Duty Paid",
+  "shipmentChargeType": "DDP",
+  "value": "Delivery Duty Paid",
   "selected":false
 }, 
 {
-  "value": "FOB",
-  "shipmentChargeType": "Free On Board",
+  "shipmentChargeType": "FOB",
+  "value": "Free On Board",
   "selected":false
 },{
-  "value": "TPB",
-  "shipmentChargeType": "Third Party Billing",
+  "shipmentChargeType": "TPB",
+  "value": "Third Party Billing",
   "selected":false
 } 
 ]

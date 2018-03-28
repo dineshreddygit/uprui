@@ -1,4 +1,7 @@
-[{
+[
+  {"accessorialType":"Delivery Confirmation -Response",
+  "value":"DCR"
+},{
   "accessorialType": "Delivery Confirmation Adult Signature Required",
   "value": "ADS"
 },
@@ -48,9 +51,7 @@
 {"accessorialType":"Drop Off At UPS Facility",
   "value": "DAF"
 },
-{"accessorialType":"Delivery Confirmation -Response",
-  "value":"DCR"
-},
+
 {"accessorialType":"Delivery Confirmation Signature Required",
   "value": "DCS"
 },

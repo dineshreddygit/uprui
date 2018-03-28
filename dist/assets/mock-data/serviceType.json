@@ -1,12 +1,4 @@
 [{
-    "serviceType": "2nd Day Air",
-    "value": "2DA",
-    "selected":false,
-    "cHour":"",
-    "cMin":"",
-    "eMin":"",
-    "eHour":""    
-  },{
     "serviceType": "Worldwide Standard",
     "value": "WWS",
     "selected":false,
@@ -186,25 +178,5 @@
     "cMin":"",
     "eMin":"",
     "eHour":""    
-  },
-  {
-    "serviceType": "",
-    "value": "",
-    "selected":false,
-    "cHour":"",
-    "cMin":"",
-    "eMin":"",
-    "eHour":""    
-  },
-  {
-    "serviceType": "",
-    "value": "",
-    "selected":false,
-    "cHour":"",
-    "cMin":"",
-    "eMin":"",
-    "eHour":""    
-  }
-
-  
+  }  
 ]
